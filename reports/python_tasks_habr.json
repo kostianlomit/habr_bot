@@ -1,0 +1,127 @@
+[
+    {
+        "title": "Доработка Telegram-бота",
+        "urls": "https://freelance.habr.com//tasks/518873",
+        "price": "5 000 руб. за проект"
+    },
+    {
+        "title": "Сделать сайт на django для готового дизайна",
+        "urls": "https://freelance.habr.com//tasks/518849",
+        "price": "5 000 руб. за проект"
+    },
+    {
+        "title": "Внести изменения в Python код, задеплоить в EC2 AWS",
+        "urls": "https://freelance.habr.com//tasks/518755",
+        "price": "___"
+    },
+    {
+        "title": "Декомпилировать APK, найти функции, переписать их на другой ЯП",
+        "urls": "https://freelance.habr.com//tasks/518723",
+        "price": "1 000 руб. за проект"
+    },
+    {
+        "title": "CI/CD пайплайн для бэкенда на Django",
+        "urls": "https://freelance.habr.com//tasks/518689",
+        "price": "___"
+    },
+    {
+        "title": "Найти изображение товара по названию (массово)",
+        "urls": "https://freelance.habr.com//tasks/518685",
+        "price": "20 000 руб. за проект"
+    },
+    {
+        "title": "Мультиязычная админка python, PostgreSQL",
+        "urls": "https://freelance.habr.com//tasks/518679",
+        "price": "2 500 руб. за час"
+    },
+    {
+        "title": "Реализовать ETL в NiFi",
+        "urls": "https://freelance.habr.com//tasks/518671",
+        "price": "10 000 руб. за проект"
+    },
+    {
+        "title": "Рекламный автобиддер Wildberries (биддер WB)",
+        "urls": "https://freelance.habr.com//tasks/515039",
+        "price": "180 000 руб. за проект"
+    },
+    {
+        "title": "Выгрузка данных из базы в форме табеля посещяемости",
+        "urls": "https://freelance.habr.com//tasks/518611",
+        "price": "5 000 руб. за проект"
+    },
+    {
+        "title": "Настроить Kubernetes K8S (DevOps)",
+        "urls": "https://freelance.habr.com//tasks/518607",
+        "price": "___"
+    },
+    {
+        "title": "Написание статей по тематике Machine Learning, Time series, статистика",
+        "urls": "https://freelance.habr.com//tasks/518599",
+        "price": "800 руб. за проект"
+    },
+    {
+        "title": "Разработать модель нейросети, улучшить точность распознавания ",
+        "urls": "https://freelance.habr.com//tasks/518541",
+        "price": "1 000 руб. за час"
+    },
+    {
+        "title": "Исправить бота telegram на python+postgresql",
+        "urls": "https://freelance.habr.com//tasks/518459",
+        "price": "___"
+    },
+    {
+        "title": "Нейронная сеть для обнаружения звуков уведомления",
+        "urls": "https://freelance.habr.com//tasks/518453",
+        "price": "10 000 руб. за проект"
+    },
+    {
+        "title": "Проанализировать набор данных используя инструмент Spark",
+        "urls": "https://freelance.habr.com//tasks/518439",
+        "price": "2 000 руб. за проект"
+    },
+    {
+        "title": "Сделать парсер стримингово сайта",
+        "urls": "https://freelance.habr.com//tasks/518433",
+        "price": "1 000 руб. за проект"
+    },
+    {
+        "title": "Запись видео уроков, Python, Машинное обучение, анализ данных",
+        "urls": "https://freelance.habr.com//tasks/518429",
+        "price": "500 руб. за проект"
+    },
+    {
+        "title": "Софт, который переходит по ссылке",
+        "urls": "https://freelance.habr.com//tasks/518419",
+        "price": "___"
+    },
+    {
+        "title": "Парсинг открытых групп VK",
+        "urls": "https://freelance.habr.com//tasks/518409",
+        "price": "10 000 руб. за проект"
+    },
+    {
+        "title": "Доработать проект на FastApi + Vue.JS + Postgres",
+        "urls": "https://freelance.habr.com//tasks/518369",
+        "price": "15 000 руб. за проект"
+    },
+    {
+        "title": "ТГ-бот",
+        "urls": "https://freelance.habr.com//tasks/518287",
+        "price": "___"
+    },
+    {
+        "title": "Исправить ошибки Python",
+        "urls": "https://freelance.habr.com//tasks/518269",
+        "price": "1 000 руб. за проект"
+    },
+    {
+        "title": "Обработка изображений на GPU (Cuda)",
+        "urls": "https://freelance.habr.com//tasks/518145",
+        "price": "5 000 руб. за проект"
+    },
+    {
+        "title": "Телеграмм бот \"Анонимный Чат\" для геймеров",
+        "urls": "https://freelance.habr.com//tasks/518039",
+        "price": "1 000 руб. за проект"
+    }
+]
